@@ -2,7 +2,7 @@
  * Created by eric on 4/20/16.
  */
 module.exports = {
-    port: 3000,
+    port: 3002,
     jwt:{
         secret:'awesomemusicsite!',
         expiration: 60*60 //in seconds

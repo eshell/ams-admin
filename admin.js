@@ -1,5 +1,5 @@
 var express = require('express'),
-    config = require('./config'),
+    config = require('./config/config'),
     http = require('http'),
     app = express();
 // faker = require('faker'),
